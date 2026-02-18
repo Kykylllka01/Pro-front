@@ -21,8 +21,8 @@
 
 @mixin flex-all-between {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
 }
 
 @mixin flex-column {
